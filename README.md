@@ -8,7 +8,7 @@ I'm into **robotics**, **embodied AI**, **multi-agent systems**, **digital-twin 
 
 I'm into GTM as well. I build, then market. Reddit has been the channel; that loop has gotten **millions of views**.
 
-CS @ the University of Hong Kong — HKU Outstanding Academic Talent Scholar; HKSAR Government Scholarship. [LinkedIn](https://www.linkedin.com/in/nivesh-dandyan) · [email](mailto:niveshdandyan@gmail.com)
+CS @ The University of Hong Kong — HKU Outstanding Academic Talent Scholar; HKSAR Government Scholarship. [LinkedIn](https://www.linkedin.com/in/nivesh-dandyan) · [email](mailto:niveshdandyan@gmail.com)
 
 #### Building
 
