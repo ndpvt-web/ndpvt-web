@@ -8,14 +8,14 @@ I'm into **robotics**, **embodied AI**, **multi-agent systems**, **digital-twin 
 
 I'm into GTM as well. I build, then market. Reddit has been the channel; that loop has gotten **millions of views**.
 
-CS at HKU (full scholarship). [LinkedIn](https://www.linkedin.com/in/nivesh-dandyan) · [email](mailto:niveshdandyan@gmail.com)
+CS @ the University of Hong Kong — HKU Outstanding Academic Talent Scholar; HKSAR Government Scholarship. [LinkedIn](https://www.linkedin.com/in/nivesh-dandyan) · [email](mailto:niveshdandyan@gmail.com)
 
 #### Building
 
 - **[latex-document-skill](https://github.com/ndpvt-web/latex-document-skill)** [![GitHub stars](https://img.shields.io/github/stars/ndpvt-web/latex-document-skill?style=flat&color=gold)](https://github.com/ndpvt-web/latex-document-skill) — Plain English → LaTeX PDFs for Claude Code (**20,000+ installs**).
 - **[prompt-improver](https://github.com/ndpvt-web/prompt-improver)** [![GitHub stars](https://img.shields.io/github/stars/ndpvt-web/prompt-improver?style=flat&color=gold)](https://github.com/ndpvt-web/prompt-improver) — Vague ask → first-principles prompt with axioms, method, and verification.
 - **[siddhi](https://github.com/ndpvt-web/siddhi)** [![GitHub stars](https://img.shields.io/github/stars/ndpvt-web/siddhi?style=flat&color=gold)](https://github.com/ndpvt-web/siddhi) — Desktop computer-use agent with hybrid grounding and a self-evolving skill pipeline.
-- **[reddit-skills](https://github.com/ndpvt-web/reddit-skills)** [![GitHub stars](https://img.shields.io/github/stars/ndpvt-web/reddit-skills?style=flat&color=gold)](https://github.com/ndpvt-web/reddit-skills) — Agent-native Reddit stack: research → scout → write → intel.
+- **[reddit-skills](https://github.com/ndpvt-web/reddit-skills)** [![GitHub stars](https://img.shields.io/github/stars/ndpvt-web/reddit-skills?style=flat&color=gold)](https://github.com/ndpvt-web/reddit-skills) — AI-native GTM stack for Reddit: simulate posts with digital-twin personas before you publish — **40M+ views** so far.
 - **[sales-digital-twin](https://github.com/ndpvt-web/sales-digital-twin)** [![GitHub stars](https://img.shields.io/github/stars/ndpvt-web/sales-digital-twin?style=flat&color=gold)](https://github.com/ndpvt-web/sales-digital-twin) — Psychological digital twins + Monte Carlo loops to simulate campaigns before they go live.
 - **[claude-dag-skill](https://github.com/ndpvt-web/claude-dag-skill)** [![GitHub stars](https://img.shields.io/github/stars/ndpvt-web/claude-dag-skill?style=flat&color=gold)](https://github.com/ndpvt-web/claude-dag-skill) — Persistent axiom registry + provenance graph; deprecation shows blast radius across claims.
 - **[navi](https://github.com/ndpvt-web/navi)** [![GitHub stars](https://img.shields.io/github/stars/ndpvt-web/navi?style=flat&color=gold)](https://github.com/ndpvt-web/navi) — Open wearable navigation for the visually impaired — offline-first ESP32 + companion software.
